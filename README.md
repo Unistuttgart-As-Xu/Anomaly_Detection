@@ -1,7 +1,7 @@
 # Maritime-Anomaly-Detection
-Project Maritime Anomaly Detection
+Project Maritime Anomaly Detection \n
 
-python files for real Data preprocessing are saved in Anomaly_Detection/input_2/
+python files for real Data preprocessing are saved in Anomaly_Detection/input_2/ 
 python files for abnormal Data generation are saved in Anomaly_Detection/Generation/
 
 after real Data preprocessing and abnormal Data generation, we get the data, which are saved in Anomaly_Detection/input_2/Generation_data and Anomaly_Detection/input_2/Real_data. these data are what the model file need.
