@@ -1,0 +1,2 @@
+,MMSI,start time,end time,mean speed,var speed,mean_direction,var_direction,max_speed,min_speed
+0,316038089,2019-01-01 02:00:00,2019-01-01 02:10:00,8.8875,0.006964285714285665,76.23750000000001,0.999853812804982,8.8875,8.8875
